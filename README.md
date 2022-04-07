@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo ao meu perfil!
 
-- 🔭 Atualmente trabalhando fora da area e procurando um estágio. 
+- 🔭 Estágio
 - 🌱 Estudando JavaScript
 - 🎓 Cursando 3° Semestre em Análise e Desenvolvimento de Sistemas na Fatec Franca-Sp
 - 📫 Contate-me no e-mail: bmariasthefany@gmail.com
