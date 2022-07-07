@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo ao meu perfil!
 
 - 🔭 Estágio
-- 🌱 Estudando JavaScript
-- 🎓 Cursando 3° Semestre em Análise e Desenvolvimento de Sistemas na Fatec Franca-Sp
+- 🌱 Estudando .NET
+- 🎓 Cursando 4° Semestre em Análise e Desenvolvimento de Sistemas na Fatec Franca-Sp
 - 📫 Contate-me no e-mail: bmariasthefany@gmail.com
 
 ***
