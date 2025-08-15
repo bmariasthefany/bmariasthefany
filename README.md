@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,ps)](https://skillicons.dev)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/maria-sthefany-bordini-8837b9217/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/maria-sthefany-bordini-8837b9217/)" alt="LinkedIn"/></a>
 </p>
