@@ -1,19 +1,20 @@
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div><br>
+# 💜 Olá!
 
-##    
-    
-<div> 
-    <a href = "mailto:bmariasthefany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/maria-sthefany-bordini-8837b9217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
-</div>
+- 🖥️ Desenvolvedora de Software .NET
+- 🎓 Graduada em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade de Tecnologia "Dr. Thomaz Novelino" 
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
   
+---
 
+## Tecnologias 💻
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,docker,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,ps)](https://skillicons.dev)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/maria-sthefany-bordini-8837b9217/)" alt="LinkedIn"/></a>
+</p>
